@@ -1,0 +1,13 @@
+# Ignore log files
+*.txt
+*.log
+
+# Ignore PyCharm settings
+.idea/
+
+# Ignore Python cache
+__pycache__/
+
+venv/
+
+*.pyc
