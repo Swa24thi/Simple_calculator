@@ -6,4 +6,4 @@ Using Streamlit for UI, designed a simple calculator which handles the edge case
 
 Install Streamlit package on the device and add it in pycharm as well.
 
-command to RUN : streamit run <file_name>
+command to RUN : streamlit run <file_name>
